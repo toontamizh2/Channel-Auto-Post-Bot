@@ -20,7 +20,7 @@ License -> https://github.com/FayasNoushad/Channel-Auto-Post-Bot/blob/main/LICEN
 <br/>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/Channel-Auto-Post-Bot/tree/main">
+  <a href="https://heroku.com/deploy?template=https://github.com/toontamizh2/Channel-Auto-Post-Bot">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
